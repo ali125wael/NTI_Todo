@@ -10,9 +10,9 @@ import cloudinary.api
 
 # Cloudinary configuration
 cloudinary.config(
-    cloud_name='dot3oekpp',
-    api_key='957184771196124',
-    api_secret='y6Gzc0n8iy0KGKQztqwrtcYQ_E4',
+    cloud_name='dsjdexo4j',
+    api_key='199642821325487',
+    api_secret='UB189KOAMuFMDGFlfEQ-PPsJZ6g',
     secure=True
 )
 
